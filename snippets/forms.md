@@ -1,3 +1,4 @@
+```python
 from django import forms
 from .models import Join
 
@@ -8,3 +9,4 @@ class EmailForm(forms.Form):
 class JoinForm(forms.ModelForm)
     class Meta:
         model = Join
+```

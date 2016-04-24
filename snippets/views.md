@@ -10,7 +10,7 @@ from .models import Join
     
     1. Using regular django forms 
     
-    ```
+    ```python
     def home(request):
         form = EmailForm(request.POST or None)
         if from.is_valid():
@@ -24,7 +24,7 @@ from .models import Join
     
     2. Using django model forms
 
-    ```
+    ```python
     def home(request):
         form = JoinForm(request.POST or None)
         if from.is_valid():
@@ -39,7 +39,7 @@ from .models import Join
 
 3. Get the ip address
 
-```
+```python
 def get_ip(request):
     try:
         x_forward = request.META.get("HTTP_X_FORWARDED_FOR")

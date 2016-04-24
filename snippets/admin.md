@@ -1,3 +1,4 @@
+```python
 from django.contrib import admin
 from .models import Join
 
@@ -10,3 +11,4 @@ class JoinAdmin(admin.ModelAdmin):
         model = Join
 
 admin.site.register(Join, JoinAdmin)
+```
