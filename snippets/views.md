@@ -1,6 +1,6 @@
 1. Imports
 
-```
+```python
 from django.shortcuts import render
 from .forms import EmailForm, JoinForm
 from .models import Join

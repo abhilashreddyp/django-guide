@@ -33,17 +33,19 @@ Guides for learning + doing better web and app development. Created by [Mohamed 
 
 ### Tips
 
-[Common Django URL Regular Expression Patters (regex)](./all/common_url_regex.md)
+[Common Django URL Regular Expression Patters (regex)](./tips/common_url_regex.md)
 
-[Django Image Field and the Python Image Library](./all/imagefield_and_pillow.md)
+[Django Image Field and the Python Image Library](./tips/imagefield_and_pillow.md)
 
-[Django Translation](./all/Django_Translation.md)
+[Django Translation](./tips/Django_Translation.md)
 
-[Reactivate Virtual Environment](./all/reactivate_virtualenv.md)
+[Reactivate Virtual Environment](./tips/reactivate_virtualenv.md)
 
-[Kill Server when Errors Occor](./all/kill_server.md)
+[Kill Server when Errors Occor](./tips/kill_server.md)
 
-[Social Sharing with HTML Links](./all/social_share_links.md)
+[Add existing project to Github](./tips/add_existing_project_to_github.md)
+
+[Social Sharing with HTML Links](./tips/social_share_links.md)
 
 
 
